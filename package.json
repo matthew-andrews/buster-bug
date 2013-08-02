@@ -1,0 +1,17 @@
+{
+  "name": "buster-bug",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "test": "buster test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matthew-andrews/buster-bug"
+  },
+  "dependencies": {
+    "buster": "~0.6.12"
+  },
+  "author": "Matt Andrews <matthew.andrews@ft.com>",
+  "license": "MIT"
+}
