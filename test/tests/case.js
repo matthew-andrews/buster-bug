@@ -1,6 +1,6 @@
 var buster = require('buster');
 
-buster.testCase("online", {
+buster.testCase("async", {
 
   // Adapted from: http://docs.busterjs.org/en/latest/modules/buster-test/test-case/#asynchronous-tests
   "Slightly adapted async test from Buster docs": function() {
