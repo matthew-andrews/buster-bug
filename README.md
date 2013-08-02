@@ -20,7 +20,7 @@ buster-test
 ### Actual output
 
 ```
-Error: online Slightly adapted async test from Buster docs
+Error: async Slightly adapted async test from Buster docs
     undefined
 
 1 test case, 1 test, 1 assertion, 0 failures, 1 error, 0 timeouts
